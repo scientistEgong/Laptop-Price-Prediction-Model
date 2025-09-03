@@ -2,8 +2,8 @@
 venv/
 
 # Data files (local only, not pushed)
-data/
-laptop_price.csv/
+Datasets/
+
 # Python cache
 __pycache__/
 *.pyc
