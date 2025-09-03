@@ -3,10 +3,12 @@ venv/
 
 # Data files (local only, not pushed)
 data/
-
+laptop_price.csv/
 # Python cache
 __pycache__/
 *.pyc
+*.py[cod]
+*.so
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
@@ -14,9 +16,17 @@ __pycache__/
 # Model artifacts
 *.pkl
 *.joblib
+*.h5
+*.Pt
+*.ckpt
 
 # OS junk files
 .DS_Store
 
 # Environment/config
-.car-price-env
+.venv
+
+
+# Logs
+logs/
+*.log
