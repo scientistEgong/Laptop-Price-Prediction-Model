@@ -1,9 +1,6 @@
 # Virtual environment
 venv/
 
-# Data files (local only, not pushed)
-Datasets
-
 # Python cache
 __pycache__/
 
