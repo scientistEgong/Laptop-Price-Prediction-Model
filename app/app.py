@@ -2,10 +2,13 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
+import os
 
 # Load the model
-model_path = 'models/best_model.joblib'
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+model_path = os.path.join(BASE_DIR, 'models', 'best_model.joblib')
 model = joblib.load(model_path)
+
 
 # Set page configuration
 st.set_page_config(
