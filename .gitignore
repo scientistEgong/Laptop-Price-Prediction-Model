@@ -8,16 +8,11 @@ __pycache__/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
-# Model artifacts
-*.pkl
-*.joblib
+
+
 
 
 # OS junk files
 .DS_Store
-
-# Environment/config
-.venv
-
 
 

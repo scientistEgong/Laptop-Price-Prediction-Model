@@ -4,7 +4,7 @@ import numpy as np
 import joblib
 
 # Load the model
-model_path = 'models/best_model.joblib'
+model_path = 'streamlit_app/models/best_model.joblib'
 model = joblib.load(model_path)
 
 # Set page configuration
