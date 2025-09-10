@@ -117,6 +117,28 @@ Car-Price-Prediction-model/
 
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](link-to-issues).
 
+## 💻 CONTRIBUTORS
+REGISTRATION NUMBER       |     PROFILE-NAMES
+
+23/EG/CO/0 27             |    scientistEgong 
+
+23/EG/CO/030              |    covenantmonday863@gmail.com  
+
+23/EG/CO/026              |    Hycienth Akunnaya Perpetual 
+
+23/EG/CO/025              |    nickysmart24 
+
+23/EG/CO/031              |    adaobir77-pixel 
+
+23/EG/CO/022              |    Izzykul   
+
+23/EG/CO/023              |    Willie-Roberts-2405  
+
+23/EG/CO/024              |    Andifon  
+
+23/EG/CO/032              | 
+ 
+
 ## 📝 License
 
 This project is [MIT](LICENSE) licensed.
@@ -124,7 +146,7 @@ This project is [MIT](LICENSE) licensed.
 
 ## 🙏 Acknowledgments
 
-- Dataset source: [Source name/link]
+- Dataset source: [Kaggle/https://www.kaggle.com/datasets/muhammetvarl/laptop-price]
 - Contributors and reviewers
 - Open source community
 
