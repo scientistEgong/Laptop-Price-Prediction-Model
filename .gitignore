@@ -8,3 +8,7 @@ __pycache__/
 
 # OS junk files
 .DS_Store
+
+
+# Virtual environment
+venv/
