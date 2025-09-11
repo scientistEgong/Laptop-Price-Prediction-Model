@@ -5,12 +5,8 @@ import joblib
 import os
 
 # Load the model
-<<<<<<< HEAD
-model_path = 'models/best_model.joblib'
-=======
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 model_path = os.path.join(BASE_DIR, 'models', 'best_model.joblib')
->>>>>>> c035520595bbe613dadf20547830368c9e41147e
 model = joblib.load(model_path)
 
 
